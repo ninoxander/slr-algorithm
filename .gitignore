@@ -1,0 +1,59 @@
+# Directorios y archivos generados por IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas de salida de compilación
+/out/
+build/
+target/
+
+# Archivos generados por Maven
+mvnw
+mvnw.cmd
+/.mvn/
+*.log
+
+# Archivos generados por Gradle
+.gradle/
+/build/
+!gradle-wrapper.jar
+
+# Archivos de configuración de Gradle
+.gradle/
+/build/
+/.gradle/
+/gradle/
+/!gradle-wrapper.jar
+*.jar
+*.war
+*.ear
+
+# Archivos de log
+*.log
+
+# Archivos de clase y otros binarios
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos relacionados con el uso del IDE
+*.ipr
+*.iws
+*.class
+*.project
+*.classpath
+
+# Archivos de configuración y de ejecución
+*.swp
+*.swo
+*.class
+*.log
+*.pid
+*.log
+*.tmp
