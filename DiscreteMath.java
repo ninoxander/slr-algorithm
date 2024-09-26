@@ -1,6 +1,6 @@
-public class Helper {
+public class DiscreteMath {
     DataSet dataSet = new DataSet();
-    public Helper(DataSet _dataSet){
+    public DiscreteMath(DataSet _dataSet){
         this.dataSet = _dataSet;
     }
     // Calcula la sumatoria de los items de x.
