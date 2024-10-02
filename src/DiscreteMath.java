@@ -1,3 +1,5 @@
+package src;
+
 public class DiscreteMath {
     DataSet dataSet = new DataSet();
     public DiscreteMath(DataSet _dataSet){
