@@ -38,7 +38,6 @@ mvnw.cmd
 
 # Archivos de clase y otros binarios
 *.class
-*.jar
 *.war
 *.ear
 
